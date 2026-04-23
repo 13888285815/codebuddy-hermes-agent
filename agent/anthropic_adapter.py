@@ -17,7 +17,6 @@ import os
 from pathlib import Path
 
 from hermes_constants import get_hermes_home
-from types import SimpleNamespace
 from typing import Any, Dict, List, Optional, Tuple
 from utils import normalize_proxy_env_vars
 
